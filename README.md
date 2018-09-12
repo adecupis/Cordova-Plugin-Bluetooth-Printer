@@ -3,7 +3,7 @@ A cordova plugin for bluetooth printer for android platform, which support text 
 
 Forked from: https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer
 
-Changed the width om images printing
+Changed the width of images printing
 
 ##Support
 - Text
