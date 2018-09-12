@@ -1,6 +1,10 @@
 # Cordova-Plugin-Bluetooth-Printer
 A cordova plugin for bluetooth printer for android platform, which support text printing and POS printing.
 
+Forked from: https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer
+
+Changed the width om images printing
+
 ##Support
 - Text
 - POS Commands
@@ -11,7 +15,7 @@ A cordova plugin for bluetooth printer for android platform, which support text 
 Using the Cordova CLI and NPM, run:
 
 ```
-cordova plugin add https://github.com/srehanuddin/Cordova-Plugin-Bluetooth-Printer.git
+cordova plugin add https://github.com/adecupis/Cordova-Plugin-Bluetooth-Printer.git
 ```
 
 
